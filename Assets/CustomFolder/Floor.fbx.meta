@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 61a347a7a9d12db4998c0700f75bbed9
+guid: 3077306c266840e428b7c572a8efa3fd
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
@@ -7,7 +7,7 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: pCylinder1Mat
+      name: Material.003
     second: {fileID: 2100000, guid: 5759ac26aaa08e04aa1154e40ea19457, type: 2}
   materials:
     materialImportMode: 2
